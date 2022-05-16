@@ -59,7 +59,7 @@
 
 **CMPE172 Cluster Built**
 
-<img width="1440" alt="cmpe172 cluster built" src="https://user-images.githubusercontent.com/73107239/168466972-6463cb7a-1089-4e66-8aa8-3a9bad20468d.png">
+<img width="1440" alt="cmpe172 cluster built" src="https://user-images.githubusercontent.com/73107239/168501892-21a4f6b9-41e6-413d-b599-881776e677fe.png">
 
 **Draft a New Release**
 
